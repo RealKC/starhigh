@@ -3,6 +3,7 @@ name = "starhigh-rs"
 version = "0.1.0"
 authors = ["Mițca Dumitru <dumitru0mitca@gmail.com>"]
 edition = "2018"
+license = "EUPL-1.2"
 build = "build.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
